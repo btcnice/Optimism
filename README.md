@@ -175,7 +175,7 @@ OP 中文力量：https://vote.optimism.io/delegates/optimismcn.eth
 | William-02-02 | ✅ | | | | | | | | | | | | | | | | | | | | |
 | pillowtalk-Qy | ✅ | | | | | | | | | | | | | | | | | | | | |
 | wuyanhui |   | | | | | | | | | | | | | | | | | | | | |
-| btcnice |   | | | | | | | | | | | | | | | | | | | | |
+| btcnice | ✅  | | | | | | | | | | | | | | | | | | | | |
 | amandakelake | ✅ | | | | | | | | | | | | | | | | | | | | |
 | chendafu2573 |   | | | | | | | | | | | | | | | | | | | | |
 | CJC824 | ✅ | | | | | | | | | | | | | | | | | | | | |
